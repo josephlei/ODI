@@ -19,7 +19,6 @@ Collaborators:
 &nbsp;
 #### Existing thoughts
 
-thoughts
 * have high level projects/ideas for incoming folks to explore interests, see below
 
 * looking for people who are interested in learning and working on:
@@ -30,7 +29,6 @@ thoughts
 	* government efficienty
 	* ??agile Project management
 	* ??open source technology
-	* ??
 	* ??
 
 * requirements
