@@ -1,11 +1,9 @@
 <html>
 <body>
           {% for page in site.pages %}
-          
-          1
-          <!-- {% if page.title %} -->
-          <!-- <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> -->
-          <!-- {% endif %} -->
+          {% if page.title %}
+          <!-- <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a> -->pagetitlehere
+          {% endif %}
         {% endfor %}
 </body>
 </html>
