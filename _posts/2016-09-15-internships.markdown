@@ -1,12 +1,14 @@
 ---
 <!-- layout: default -->
-title: 'ODI Internship Framework'
+title: ODI Internship Framework
+meta: Doc for Joseph, Sam, Brandon, Cindy
 date: 2016-09-15
 categories: 
 published: true
 ---
 
 ### "Developing the ODI Internship Framework"
+
 Collaborators:
 
 * Brooks Newberry
@@ -23,42 +25,42 @@ Collaborators:
 * have high level projects/ideas for incoming folks to explore interests, see below
 
 
-* looking for people who are interested in learning and working on:
-	* open data
-	* data science
-	* ui/ux
-	* open source web technologies
-	* government efficienty
-	* ??agile Project management
-	* ??open source technology
-	* ??
+* What type of people are we looking for? Those interested in how CA can improve our delivery of:
+	* Open Data
+	* Data Science
+	* UI/UX
+	* Civic technology engagement
+	* Open Source Web/other Technologies
+	* Government Efficienty
+	* ??agile Project Management
+	* ?? Add more here!
 
 
-* requirements
-	* ??18+
-	* california resident? not necessarily, calhr restrictions? jjl to research
-	* * Available for video conferencing while 'working'
+* Requirements
+	* 18+ (this is still being researched/verified with HR)
+	* California Resident? Not Necessarily, Calhr Restrictions? Joseph is researching, interested in delivering results, tangible work products and low risk exponential returns, article re: brooks geocoding
+	* Available For Video Conferencing While 'working'
 
 
-* perks
-	* remote work available
-	* flexible around school work
-	* affiliation with CDT innovation
-	* references
-	* potential future work with CDT/state
+* Perks
+	* Remote Work Available
+	* Flexible Around School Work
+	* Affiliation With Cdt Innovation
+	* References
+	* Potential Future Work With Cdt/state
 
 
-* work
-	* non-mission critical work
-	* learning work
-	* project based, not task orientation
+* Work
+	* Non-mission Critical Work
+	* Learning Work
+	* Project Based, Not Task Orientation
 
 
-* pay
-	* paid or unpaid, depends on available funding, headcount and term
+* Pay
+	* Paid Or Unpaid, Depends On Available Funding, Headcount And Term
 
 
-* to be done
-	* website for ODI
-	* media material/pr campaigning
-	* flesh out internship framework (in progress)
+* To Be Done
+	* Website For Odi
+	* Media Material/pr Campaigning
+	* Flesh Out Internship Framework (in Progress)

@@ -34,6 +34,7 @@
       {% for post in site.posts %}
         <!-- {{post.title}} -->
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        {{post.meta}}
       {% endfor %}
   		</h3>
   </section>
