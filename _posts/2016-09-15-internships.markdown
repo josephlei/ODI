@@ -54,6 +54,7 @@ Collaborators:
 	* Non-mission Critical Work
 	* Learning Work
 	* Project Based, Not Task Orientation
+	* developing in the open, transparent sharing of resources and our path as we walk it
 
 
 * Pay
