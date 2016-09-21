@@ -57,6 +57,10 @@ Collaborators:
 	* developing in the open, transparent sharing of resources and our path as we walk it
 
 
+* Project Ideas
+	* Natural Language Processing (NLP) for identifying address elements in unformatted data
+
+
 * Pay
 	* Paid Or Unpaid, Depends On Available Funding, Headcount And Term
 
